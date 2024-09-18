@@ -70,3 +70,11 @@ Overs played: 18
 #code for third program
 
 code:-
+print("Team 1:")
+input("Team Name:")
+int(input("Score:"))
+int(input("Overs played:"))
+print("Team 2:")
+input("Team Name:")
+int(input("Score:"))
+int(input("Overs played:"))
